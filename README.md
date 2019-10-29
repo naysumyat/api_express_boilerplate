@@ -4,9 +4,9 @@
 Starter Project for building RESTful APIs and microservices using Node.js, Express and MongoDB
 
 ## How to run
-yarn 
-cp .env.example .env
-yarn dev
+- yarn 
+- cp .env.example .env
+- yarn dev
 
 ## Tests
 yarn test
