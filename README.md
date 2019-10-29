@@ -5,6 +5,7 @@ Starter Project for building RESTful APIs and microservices using Node.js, Expre
 
 ## How to run
 yarn 
+cp .env.example .env
 yarn dev
 
 ## Tests
