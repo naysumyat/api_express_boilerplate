@@ -4,7 +4,11 @@
 Starter Project for building RESTful APIs and microservices using Node.js, Express and MongoDB
 
 ## How to run
+yarn 
+yarn dev
 
+## Tests
+yarn test
 
 ## Features
  - YES Doc Employee PUT & claim POST api sample

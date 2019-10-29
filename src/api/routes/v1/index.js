@@ -16,7 +16,7 @@ router.use('/docs', express.static('docs'));
 /**
  * Application Routes
  */
-router.use('/api/', employeeRoutes);
+router.use('/api/', employeeRoutes); //TODO: move away api prefix from here
 
 
 module.exports = router;
