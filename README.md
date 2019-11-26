@@ -1,4 +1,4 @@
-# YES Doc REST API Starter
+API Starter
 
 
 Starter Project for building RESTful APIs and microservices using Node.js, Express and MongoDB
@@ -12,7 +12,6 @@ Starter Project for building RESTful APIs and microservices using Node.js, Expre
 yarn test
 
 ## Features
- - YES Doc Employee PUT & claim POST api sample
  - No transpilers, just vanilla javascript
  - ES2017 latest features like Async/Await
  - CORS enabled
